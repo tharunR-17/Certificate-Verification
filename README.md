@@ -5,7 +5,7 @@ This project demonstrates a decentralized certificate issuing and verification s
 ### 🛠️ Project Structure
 
 ```bash
-certificate-verification/
+Certificate-Verification/
 ├── backend/             # Node.js + Express + MongoDB + Ethers
 │   ├── models/          # Mongoose models
 │   ├── index.js         # Main backend server
@@ -26,8 +26,8 @@ certificate-verification/
 **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/certificate-verification.git
-cd certificate-verification/backend
+git clone https://github.com/tharunR-17/Certificate-Verification.git
+cd Certificate-Verification/backend
 ```
 Try running some of the following tasks:
 
